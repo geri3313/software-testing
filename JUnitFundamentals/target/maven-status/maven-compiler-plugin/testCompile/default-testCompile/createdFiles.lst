@@ -1,0 +1,5 @@
+org\example\GeneratorTest.class
+selenium\SeleniumTest.class
+org\example\CalculatorTest.class
+org\example\ArrayExampleTest.class
+org\example\EmailValidatorTest.class
